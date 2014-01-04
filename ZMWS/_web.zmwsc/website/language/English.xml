@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<language name="English">
+
+    <common>
+	
+        <text name="home">Home</text>
+        <text name="profil">My profil</text>
+        <text name="book">Address book</text>
+        <text name="post">My posts</text>
+        <text name="agenda">My agenda</text>
+        <text name="search">Advanced search</text>
+        <text name="contacts">My contacts</text>
+        <text name="news">Website news</text>
+        <text name="userNotFound">This user does not exist.</text>
+	
+    </common>
+
+    <page name="Page1">
+        <text name="exemple1">Sample page 1</text>
+        <text name="choose">Choose : </text>
+        <text name="send">Send</text>
+        <text name="title">Page 1</text>
+    </page>
+	
+    <page name="Page2">
+        <text name="exemple2">Sample page 2 - Send POST query</text>
+        <text name="butonSubmit">Send</text>
+        <text name="textIs">The text is</text>
+        <text name="title">Page 2</text>
+    </page>
+
+    <page name="index">
+        <text name="welcome">Welcome on the website Horizon-Stage ! :)</text>
+        <text name="title">Welcome</text>
+    </page>
+	
+    <page name="StudentProfil">
+        <text name="logo">Student's logo </text>
+        <text name="title">Student profil</text>
+        <text name="email">Email</text>
+        <text name="phone">Phone</text>
+        <text name="streetNumber">Street de rue</text>
+        <text name="adress">Adress</text>
+        <text name="zipCode">ZIP code</text>
+        <text name="town">Town</text>    
+        <text name="visitCard">Visit card</text>
+        <text name="presentation">Presentation</text>
+        <text name="experience">Experiences</text>
+        <text name="education">Education</text>
+        <text name="skills">Skills</text>
+        <text name="firstName">Firstname</text>
+        <text name="lastName">Lastname</text>
+        <text name="function">Function</text>
+        <text name="introduce">Introduce you </text>
+        <text name="xpduration">Experience duration</text>
+        <text name="postName">Job title</text>
+        <text name="entName">Entreprise name</text>
+        <text name="website">Entreprise website</text>
+        <text name="responsability">Trainee's works</text>
+        <text name="schoolName">School name</text>
+        <text name="educationName">Education title</text>
+        <text name="addSkill">Add a skill</text>
+        <text name="modify">Modify</text>
+        <text name="add">Add</text>
+        
+    </page>
+	
+    <page name="BusinessProfil">
+        <text name="title">Business profil</text>
+        <text name="presentation">Presentation</text>
+    </page>
+	
+    <page name="SchoolProfil">
+        <text name="schoolName">School Name</text>
+        <text name="title">School profil</text>
+        <text name="introducte">Presentation</text>
+        <text name="training">Our trainings</text>
+        <text name="visitCard">Business card</text>
+        <text name="name">School name</text>
+        <text name="phone">Phone number</text>
+        <text name="streetNumber">Street Number</text>
+        <text name="adress">Adress</text>
+        <text name="zipCode">ZIP Code</text>
+        <text name="town">Town</text>
+        <text name="introduce2">Please introduce you</text>
+        <text name="dipTitle">Diploma title</text> 
+        <text name="dipLevel">Diploma degree</text> 
+          <text name="dipSpeciality">Spéciality</text> 
+        <text name="email">Email</text>
+        <text name="website">Website</text>
+        <text name="modify">Modify</text>
+        <text name="add">Add</text>
+        
+    </page>
+	
+    <page name="EntrepriseProfil">
+        <text name="title"> Entreprise Profil</text>	
+        <text name="news">News</text>	
+        <text name="offers">Internship offer</text>	
+        <text name="offers">Offer</text>	
+        <text name="contact">Contact</text>	
+        <text name="presentation">Presentation</text>
+        <text name="introduce">Please introduce your Entreprise.</text>
+        <text name="introNews">New corporate new</text>
+        <text name="entrepriseName">Entreprise name</text>	
+        <text name="streetNumber">Street number</text>
+        <text name="adress">Adress</text>
+        <text name="zipCode">ZIP Code</text>
+        <text name="town">Town</text>
+        <text name="phone">Phone number</text>
+        <text name="email">Email</text>	
+        <text name="website">Website</text>
+        <text name="modify">Modify</text>
+        <text name="add">Add</text>
+        
+    </page>
+	
+	
+    <page name="Login">
+        <text name="alreadyLogged">You are already logged.</text>
+        <text name="error">Error on password or username.</text>
+        <text name="login">Login</text>
+    </page>
+
+</language>

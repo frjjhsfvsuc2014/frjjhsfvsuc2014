@@ -1,0 +1,99 @@
+﻿CHARDON Jonathan
+
+12/19/2013
+
+
+alignement des formulaires
+----------------------------------------------------------
+CHARDON Jonathan 
+
+12/16/2013
+
+nettoyage des vue ecole entreprise etudiant (clean du code et coerence de l'affichage des donnees)
+
+css completement refait, refonte des id avec des class communes au 3 pages
+
+xml completé 
+
+jquery ameliore
+
+----------------------------------------------------------
+CHARDON Jonathan 
+
+12/13/2013
+
+nettoyage des vue ecole entreprise etudiant (clean du code et coerence de l'affichage des donnees)
+
+css completement refait, refonte des id avec des class communes au 3 pages
+
+xml completé 
+
+jquery ameliore
+
+
+----------------------------------------------------------
+
+CHARDON Jonathan 
+
+07/08/2013
+
+
+renomm� ProfileSchool en SchoolProfil partout (nom de fichier switch controleur ) (pour etre coh�rent avec EntrepriseProfil et StudentProfil).
+
+
+retap� le html de  V_StudentProfil et V_EntrepriseProfil
+rajout� les pencils icones et croix de fermeture pour l'ensemble des champs (supression et cr�ation, pas de gestion des modifications sur les donn�es existantes pour le moment)
+
+
+cr�� des formulaires dans  V_ProfilSchool, V_StudentProfil et V_EntrepriseProfil (formulaire minimal avec changement tr�s probable)
+
+
+cr�� page dynamicsFormEntreprise.js
+	  dynamicsFormStudent.js
+	  dynamicsFormSchool.js
+
+----------------------------------------------------------
+CHARDON Jonathan
+
+05/08/2013
+
+cr�ation et apparition dynamique des formulaires dans la pages Etudiants
+(gestion des crayons de modif et des croix de sorties + hideonsubmit)
+
+pas de validation de formulaire, ni de remplissage de la base
+
+gestion de la s�curit� a checker (variable php parser en jquery pour l'affichage des crayons)
+
++ validation des donn�es formulaires a gerer (je pense a un popup de validation , voir si c'est g�rable directement dans la page )
+
+----------------------------------------------------------
+
+CHARDON Jonathan
+
+ajout table picture_carousel
+
+carousel pas fini page entreprise
+
+----------------------------------------------------------
+
+ZYRA J�r�my
+
+- Ajout de la page de connexion au site (http://127.0.0.1/website/index.php?page=Login)
+- Utilisateurs de test : 
+	- nom d'utilisateur : admin | mot de passe : admin
+	- nom d'utilisateur : jeremy | mot de passe : jeremy
+- Ajout de la page de deconnexion au site (http://127.0.0.1/website/index.php?page=Logout)
+
+----------------------------------------------------------
+
+ZYRA J�r�my
+
+- Fonctions pour manipuler les tokens (Dans C_FonctionsGlobal.php)
+- Profile �cole
+- Quelques modifications sur le profile entreprise (rien de bien m�chant :))
+
+----------------------------------------------------------
+
+profil Entreprise presque fini, 2 fech array ne fonctionne pas
+
+modif mineur de la base (table intern ship)

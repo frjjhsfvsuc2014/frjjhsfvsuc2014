@@ -1,0 +1,296 @@
+body{
+	/*background-color: #3399cc;*/
+	/*background-color: #F1F4F7;	
+	opacity:0.965;*/
+	/*	background-color: #E7F3F9;*/
+	background-image: url(/../img/background.png);
+
+}
+table{
+	background-color: white;
+}
+#container{
+ 	
+}
+
+#body_profilStudent{
+	margin-top: 50px; 
+	float: left;
+	display: block;
+}
+
+#row-fluid_marketing{
+	
+	 border-radius: 5px;
+}
+
+#presentation{	
+	margin-top: 50px;
+	zoom: 1;
+	width: auto;
+	clear: both;
+	
+}
+#presentation>h1{
+ background-color: white;;
+	color: #3399cc;
+	 border-radius: 5px;
+	padding-left: 10px;
+}
+#presentation>p{
+	border-spacing: 5px;
+	padding: 5px;
+	border: 2px solid #cccccc;
+	border-radius: 10px;
+	background-color: white;
+	
+}
+#body_profilStudent p{
+	margin-top: -15px;
+	font-size: 12px;
+}
+#body_profilStudent h1{
+	font-size: 22px;
+	color: #3399cc;
+	margin-top: 15px;
+}
+#body_profilStudent h2{
+	font-size: 18px;
+	margin-top: 0px;
+}
+#body_profilStudent h3{
+	font-size: 17px;
+	margin-top: -40px;
+}
+#body_profilStudent table{
+	margin-top: -15px;
+	
+}
+.icon-pencil{
+	margin-left: 570px;
+	font-size: 11px;
+	margin-top:-20px;
+}
+#experience{
+	margin-top: 50px;	
+	zoom: 1;
+	width: auto;
+	font-size:13px;
+	
+}
+#experience>h1{
+	/*background-color: #cccccc;*/
+	padding-left: 10px;background-color: white;
+}
+#formation{	
+	margin-top: 50px;
+	zoom: 1;
+	width: auto;
+	font-size:14px;
+	display: block;
+}
+#formation>h1{
+
+	padding-left: 10px;
+	background-color: white;
+}
+#competance{
+	
+	margin-top: 50px;
+	zoom: 1;
+	width: auto;
+	font-size:16px;
+	display: block;	
+}
+#competance>h1{
+	/*background-color: #cccccc;*/
+	padding-left: 10px;
+	background-color: white;
+}
+#competance h2{
+	color: #336699;
+}
+#contact{
+	zoom: 1;
+	width: 200px;
+	padding: auto;
+	font-size:11px;	
+	border: 1em;
+	float:center;
+	margin-left: 0px; 
+	background-color: white;
+}
+#news_small{
+	zoom: 1;
+	width: auto;
+	font-size:11px;	
+	border: 1em;
+	float:center;
+	margin-left: 0px; 
+}
+#hcard {
+    background-color: white;
+    border: 2px solid #ff9900;
+    box-shadow: 0 3px 4px #2C373E;
+    min-height: 198px;
+    padding: 10px 10px 10px;
+    position: relative;
+    width: 390px;
+    z-index: 2;	 	
+}
+#hcard h1{
+	color: #336699;
+	font-size:18px;
+	
+}
+#hcard h2{
+	font-size:18px;
+}
+#headerProfilStudent ul a{
+	margin-top:20px;
+	background:#3399cc;
+	color: #FFFFFF; 
+	margin:3;
+}
+#headerProfilStudent input{
+	width:215px;
+	margin-right:4px;
+	margin-left:4px;
+	margin-top:18px;
+}
+#headerProfilStudent img{
+
+	margin-top:10px;
+	margin-left:-50px;
+}
+#HeaderNews table{
+	width:680px;
+	height: 34px;
+	background-color: #cccccc;
+}
+#HeaderNews input{
+	width:480px;
+	height: 34px;
+}
+#HeaderNews h2{
+	margin-top:20px;
+	font-size:14px;
+	color:#ff3333;
+	margin-left:570px;
+}
+#News table {
+	margin-top:30px;
+	width:680px;
+	
+}
+#News td {
+	border-top: 1px solid #ff9900;
+	
+}
+#News h3{
+	font-size:18px;
+	margin-top:0px;
+	margin-bottom: -10px;
+}
+#message h1{
+	color: #336699;
+	font-size:18px;
+	
+}
+#message h2{
+	margin-top:20px;
+	font-size:14px;
+	color:#ff3333;
+}
+#message table {
+	margin-top:30px;
+	width:680px;
+}
+#message td {
+	border-top: 1px solid #ff9900;
+}
+#presentationEntreprise img{
+	float:left;
+	margin-top:60px;
+}
+#presentationEntreprise h1{
+margin-left:280px;
+margin-top: 75px;
+
+}
+#presentationEntreprise h2{
+	font-size: 22px;
+	color: #3399cc;
+	margin-top: 15px;
+	 clear: both;
+}
+#presentationEntreprise p{
+	margin-top:30px;
+	width:680px;
+}
+#presentationEntreprise table{
+	margin-top:30px;
+	width:680px;
+	
+}
+#myCarousel{
+	margin-top:30px;
+	width:680px;
+}
+
+#myCarousel img{
+ 
+}
+#contactEntreprise{
+	font-size: 16px;
+
+}
+#footer{
+	margin-top:30px;
+	clear: both;
+}
+#FirstColumn{	
+	margin-right: 0px;
+	
+}
+#secondColumn{
+	display: block;
+	float: right;
+	background-color: white;
+}
+#advancedSearchBox{
+	margin-top:30px;	
+	/*border-style:solid;
+	border-color: #ff9900;*/
+}
+#advancedSearchBox input{
+	width:380px;
+	height: 34px;
+}
+#headerSearch h1 {
+	color: #3399cc;
+	font-size:18px;
+}
+#FirstColumn input{
+	width:60px;
+	height: 18px;
+}
+#FirstColumn label{
+	width:170px;
+	height: 18px;
+}
+#advancedSearchBox button{
+	width:110px;
+	height: 35px;
+}
+#buttonGroup{
+margin-left: 439px;
+}
+
+#bandeau-pub{
+	margin-bottom: 75px;
+	width: 400px;
+	height: 100px;
+	background-color: black;
+}
+
